@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "fishjoy.control.menu"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard.cfg'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/andengine.jar')
+    compile files('libs/andengineaugmentedrealityextension.jar')
+    compile files('libs/andenginelivewallpaperextension.jar')
+    compile files('libs/andenginemodplayerextension.jar')
+    compile files('libs/andenginemultiplayerextension.jar')
+    compile files('libs/andenginemultitouchextension.jar')
+    compile files('libs/andenginephysicsbox2dextension.jar')
+    compile files('libs/andenginesvgtextureregionextension.jar')
+}

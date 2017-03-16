@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="7097953282736"
+    token="5776760944245807861"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1813" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1074" />
+    <task
+        name="verifier"
+        duration="173" />
+
+    <artifact
+        location="/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/outputs/apk/buyu2-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="7097953282736"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/outputs/apk/buyu2-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

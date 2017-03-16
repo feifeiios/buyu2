@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/intermediates/res/merged/debug/layout/submenu.xml",
+        "source": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/src/main/res/layout/submenu.xml"
+    },
+    {
+        "merged": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/intermediates/res/merged/debug/layout/set.xml",
+        "source": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/src/main/res/layout/set.xml"
+    },
+    {
+        "merged": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/intermediates/res/merged/debug/layout/billboard.xml",
+        "source": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/src/main/res/layout/billboard.xml"
+    },
+    {
+        "merged": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/intermediates/res/merged/debug/layout/newrecord.xml",
+        "source": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/src/main/res/layout/newrecord.xml"
+    },
+    {
+        "merged": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/zzcz/Documents/androidtest/MyTest/buyu2/src/main/res/layout/about.xml"
+    }
+]
